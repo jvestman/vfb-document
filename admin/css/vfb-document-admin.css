@@ -11,13 +11,13 @@ div#vfb-entries-body-content h3{
   padding-left: 0px;
 }
 
-div#vfb-entries-body-content table tbody tr td[style] {
+div#vfb-entries-body-content table tbody tr td{
   border-width: 0px !important;
   background: none !important;
   padding-top: 10px; !important;
 }
 
-div#vfb-entries-body-content table tbody tr th[style]{
+div#vfb-entries-body-content table tbody tr th{
 	padding-top: 10px; !important;
 }
 
