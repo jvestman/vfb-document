@@ -7,16 +7,17 @@ div#vfb-entries-body-content {
   font-family: serif; !important;
 }
 
+div#vfb-entries-body-content h3{
+  padding-left: 0px;
+}
+
 div#vfb-entries-body-content table tbody tr td[style] {
   border-width: 0px !important;
   background: none !important;
+  padding-top: 10px; !important;
 }
 
 div#vfb-entries-body-content table tbody tr th{
-	padding-top: 10px; !important;
-}
-
-div#vfb-entries-body-content table tbody tr td{
 	padding-top: 10px; !important;
 }
 
@@ -25,10 +26,6 @@ div#vfb-entries-body-content table tbody tr td{
 	display: none;
 }
 
-}
-
-div#vfb-entries-body-content h3{
-	padding: 0px; !important;
 }
 
 @page
