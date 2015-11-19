@@ -17,7 +17,7 @@ div#vfb-entries-body-content table tbody tr td[style] {
   padding-top: 10px; !important;
 }
 
-div#vfb-entries-body-content table tbody tr th{
+div#vfb-entries-body-content table tbody tr th[style]{
 	padding-top: 10px; !important;
 }
 
