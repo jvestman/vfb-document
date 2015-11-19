@@ -11,3 +11,9 @@ div#vfb-entries-body-content table tbody tr td[style] {
   border-width: 0px !important;
   background: none !important;
 }
+
+@media print {
+#side-info-column {
+	display: none;
+}
+}
