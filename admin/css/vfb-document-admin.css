@@ -12,8 +12,26 @@ div#vfb-entries-body-content table tbody tr td[style] {
   background: none !important;
 }
 
+div#vfb-entries-body-content table tbody tr th{
+	padding-top: 10px; !important;
+}
+
+div#vfb-entries-body-content table tbody tr td{
+	padding-top: 10px; !important;
+}
+
 @media print {
 #side-info-column {
 	display: none;
 }
+
+h3{
+	padding: 0px; !important;
+}
+	
+}
+
+@page
+{
+  margin: 25mm 25mm 25mm 25mm;
 }
