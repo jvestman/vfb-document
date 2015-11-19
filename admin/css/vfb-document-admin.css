@@ -11,14 +11,18 @@ div#vfb-entries-body-content h3{
   padding-left: 0px;
 }
 
-div#vfb-entries-body-content table tbody tr td{
+div#vfb-entries-body-content table tbody tr td[style]{
   border-width: 0px !important;
   background: none !important;
-  padding-top: 10px; !important;
+  padding-top: 5px; !important;
+  padding-bottom: 10px; !important;
+  vertical-align: text-top; !important
 }
 
 div#vfb-entries-body-content table tbody tr th{
-	padding-top: 10px; !important;
+	padding-top: 5px; !important;
+	padding-bottom: 10px; !important;
+	vertical-align: text-top; !important
 }
 
 @media print {
